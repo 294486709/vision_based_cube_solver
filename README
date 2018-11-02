@@ -1,0 +1,5 @@
+python initialize.py
+python capture_process.py
+python color_rec2.0.py
+python3 main.py
+python recover.py
