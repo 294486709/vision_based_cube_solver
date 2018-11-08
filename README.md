@@ -11,6 +11,9 @@ This file will call a open source cube solving algorithm and solve the cube. The
 ### 4.Cube_simulator.py  
 This file is a cube simulator, with color of each block of the cube imported, the script can simulate the cube and response to every move instruction to test the validity of the cube solver.  
 
+### 5.Demo Video
+https://drive.google.com/file/d/1N2JtJ2zYXBZTWNWIwz844KzQimZScZX1/view?usp=sharing
+
 ## Usage 
 run "python initizlize.py", "python color_rec.py", "python solver.py".  
 
